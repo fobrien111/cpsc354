@@ -1,4 +1,5 @@
 # README: Investigating the Future of AI Use Cases in Programming and Language Abstraction
+Finbar O'Brien
 
 ## Introduction
 
